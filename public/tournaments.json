@@ -1,0 +1,28 @@
+[
+  {
+    "id": "9D46A502-6DAD-C483-3D89-AB665B6254C6",
+    "name": "Tournoi des Gueules Noires",
+    "users": [
+      {
+        "id": "9D46A502-6DAD-C483-3D89-AB665B6254C6",
+        "last_name": "Colon",
+        "first_name": "Martha"
+      },
+      {
+        "id": "7D84D21C-709B-8D4E-A18E-E7BA5B11C08D",
+        "last_name": "Montoya",
+        "first_name": "Axel"
+      },
+      {
+        "id": "A8112892-1E4B-BB6C-8DD8-9981A9E4B74C",
+        "last_name": "Butler",
+        "first_name": "Haviva"
+      },
+      {
+        "id": "62AEDA26-0FE3-4A24-C539-5AE48E8827D1",
+        "last_name": "Cline",
+        "first_name": "Alec"
+      }
+    ]
+  }
+]
